@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://picsum.photos/seed/blog1/800/500",
+    "title": "The Future of Quantum Browsers",
+    "author": "Alice Hart",
+    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "posted_data": "2025-10-12",
+    "reading_time": 6,
+    "hashtags": ["#Quantum", "#FutureTech", "#Browsers", "#Innovation"]
+  },
+   {
+    "id": 2,
+    "cover": "https://picsum.photos/seed/blog2/800/500",
+    "title": "10 AI Myths You Still Believe",
+    "author": "Dr. Brian Cole",
+    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "posted_data": "2025-09-22",
+    "reading_time": 8,
+    "hashtags": ["#AI", "#MachineLearning", "#Myths", "#TechTruth"]
+  },
+  {
+    "id": 3,
+    "cover": "https://picsum.photos/seed/blog3/800/500",
+    "title": "CSS That Feels Like Magic",
+    "author": "Carla Devine",
+    "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+    "posted_data": "2025-11-01",
+    "reading_time": 4,
+    "hashtags": ["#CSS", "#Frontend", "#WebDev", "#Design"]
+  },
+  {
+    "id": 4,
+    "cover": "https://picsum.photos/seed/blog4/800/500",
+    "title": "Docker in Plain English",
+    "author": "Ethan Ray",
+    "author_img": "https://randomuser.me/api/portraits/men/71.jpg",
+    "posted_data": "2025-08-15",
+    "reading_time": 10,
+    "hashtags": ["#Docker", "#DevOps", "#Containers", "#Cloud"]
+  },
+  {
+    "id": 5,
+    "cover": "https://picsum.photos/seed/blog5/800/500",
+    "title": "Why Robots Dream of Electric Code",
+    "author": "Mira Stone",
+    "author_img": "https://randomuser.me/api/portraits/women/12.jpg",
+    "posted_data": "2025-07-30",
+    "reading_time": 7,
+    "hashtags": ["#Robotics", "#AI", "#Dreams", "#CodeLife"]
+  }
+]
