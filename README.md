@@ -1,5 +1,3 @@
-
-
 # ☕ Knowledge Cafe (React Application)
 
 A modern, interactive React web application designed for reading articles, saving favorite blogs, and tracking reading time in real-time. Built with **React**, **Vite**, and styled with **Tailwind CSS**.
